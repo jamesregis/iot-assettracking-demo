@@ -22,6 +22,7 @@
     "c3": "0.4.11"    
   },
   "resolutions": {
+    "bootstrap": "~3.3.7",
     "jquery": "~2.1.4",
     "angular": "1.5.11"
   }
